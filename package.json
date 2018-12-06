@@ -1,0 +1,28 @@
+{
+  "name": "purescript-arraybuffer-encoding",
+  "version": "1.0.0",
+  "description": "Purescript library to provide string encoding functions on arraybuffer types.",
+  "main": "index.js",
+  "repository": "https//github.com/AlexaDeWit/purescript-arraybuffer-encoding",
+  "author": "Alexandra DeWit",
+  "license": "MIT",
+  "scripts": {
+    "clean": "rimraf output && rimraf .pulp-cache",
+    "build": "pulp build -- --censor-lib --strict",
+    "test": "pulp test",
+    "publish": "pulp test && pulp publish"
+  },
+  "keywords": [
+    "purescript",
+    "encode",
+    "decode",
+    "TextEncoder",
+    "TextDecoder"
+  ],
+  "devDependencies": {
+    "text-encoding": "^0.7.0",
+    "pulp": "^12.2.0",
+    "purescript-psa": "^0.6.0",
+    "rimraf": "^2.6.2"
+  }
+}

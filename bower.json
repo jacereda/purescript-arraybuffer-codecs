@@ -1,0 +1,19 @@
+{
+  "name": "purescript-arraybuffer-encoding",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^4.1.0",
+    "purescript-console": "^4.2.0",
+    "purescript-effect": "^2.0.0",
+    "purescript-arraybuffer": "^9.0.0",
+    "purescript-text-encoding": "^0.0.9"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^4.0.0"
+  }
+}
