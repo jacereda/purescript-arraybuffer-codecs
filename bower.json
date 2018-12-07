@@ -1,5 +1,5 @@
 {
-  "name": "purescript-arraybuffer-encoding",
+  "name": "purescript-arraybuffer-codecs",
   "ignore": [
     "**/.*",
     "node_modules",
