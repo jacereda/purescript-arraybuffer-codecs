@@ -10,10 +10,12 @@
     "purescript-prelude": "^4.1.0",
     "purescript-console": "^4.2.0",
     "purescript-effect": "^2.0.0",
-    "purescript-arraybuffer": "^9.0.0",
+    "purescript-arraybuffer": "^8.0.2",
     "purescript-text-encoding": "^0.0.9"
   },
   "devDependencies": {
-    "purescript-psci-support": "^4.0.0"
+    "purescript-psci-support": "^4.0.0",
+    "purescript-unicode": "^4.0.1",
+    "purescript-quickcheck": "^5.0.0"
   }
 }
