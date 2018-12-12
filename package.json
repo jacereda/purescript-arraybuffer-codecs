@@ -1,6 +1,5 @@
 {
   "name": "purescript-arraybuffer-coidecs",
-  "version": "1.0.0",
   "description": "Purescript library to provide string encoding functions on arraybuffer types.",
   "main": "index.js",
   "repository": "https//github.com/AlexaDeWit/purescript-arraybuffer-codecs",

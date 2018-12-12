@@ -11,7 +11,8 @@
     "purescript-console": "^4.2.0",
     "purescript-effect": "^2.0.0",
     "purescript-arraybuffer": "^8.0.2",
-    "purescript-text-encoding": "^0.0.9"
+    "purescript-text-encoding": "^0.0.9",
+    "purescript-base64-codec": "^0.11.0"
   },
   "devDependencies": {
     "purescript-psci-support": "^4.0.0",
